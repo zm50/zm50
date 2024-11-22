@@ -6,13 +6,12 @@
   <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
   <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
   <br>
-  <img src="https://raw.githubusercontent.com/zm50/zm50/master/space.jpg" width="50%" />
-  <br><br>
 
-  <br><br>
-    <img src="https://raw.githubusercontent.com/zm50/zm50/master/animal.gif" height="25" align="left" />
-    <img src="https://raw.githubusercontent.com/zm50/zm50/master/cat.gif" height="25" align="right" />
-  <br><br><br>
+  <div display="flex" justify-content="space-between" align-items="center">
+    <img src="https://raw.githubusercontent.com/zm50/zm50/master/animal.gif" height="50" align="left" />
+    <img src="https://raw.githubusercontent.com/zm50/zm50/master/space.jpg" width="50%" />
+    <img src="https://raw.githubusercontent.com/zm50/zm50/master/cat.gif" height="50" align="right" />
+  </div>
 
   <p>💼 Back-end dev • Platform Engineer</p>
   <p>💻 System programming languages • DevOps</p>
