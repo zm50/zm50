@@ -21,21 +21,23 @@
   
   <p align="center">
     <a href="https://github.com/zm50">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zm50&show_icons=true&theme=github_dark" alt="zm50's github stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zm50&show_icons=true&theme=dracula" alt="zm50's github stats">
     </a>
     <br>
     <a href="https://github.com/zm50">
-      <img src="https://github-readme-stats.vercel.app/api?username=zm50&show_icons=true&theme=github_dark" alt="zm50's github stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=zm50&show_icons=true&theme=dracula" alt="zm50's github stats">
     </a>
     <br>
     <a href="https://github.com/zm50">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zm50&theme=github_dark" alt="zm50's github stats">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zm50&theme=dracula" alt="zm50's github stats">
     </a>
     <br>
     <a href="https://github.com/zm50">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zm50&theme=github_dark" alt="zm50's github stats">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zm50&theme=dracula" alt="zm50's github stats">
     </a>
-
+    <a href="https://github.com/zm50">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=zm50&theme=dracula" alt="zm50's github stats">
+    </a>
   </p>
-
 </div>
+
